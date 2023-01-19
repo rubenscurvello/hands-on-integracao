@@ -4,6 +4,6 @@ docker-compose up
 
 ts-node test.ts
 
-Permissoes de escrita e leitura
+# Permissoes de escrita e leitura
 build.sh
 test.sh
