@@ -16,7 +16,6 @@ useDotenv: true
 
 provider:
   name: aws
-  profile: seedz-integration
   runtime: nodejs16.x
   timeout: 30
   stage: dev
